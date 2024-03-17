@@ -8,7 +8,7 @@ const Home = () => {
 //funcionalidades
 const[luz,setLuz]=useState("verde");
 
-
+// faltan los bonus desde que pueda lo hago.
 
 	return (
 		<div className="text-center">
